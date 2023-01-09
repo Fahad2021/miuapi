@@ -1,1 +1,1 @@
-web: gunicorn miuapi.wsgi --log-file -
+web : gunicorn miuapi.wsgi --log-file-
